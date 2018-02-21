@@ -8,7 +8,7 @@ Testing code for https://www.myanmareffectiveprogrammer.com/java7
 
 3. You can test this code along with "Myanmar Effective Programmer" Java 7 tutorial
 
-4. Make sure you have installed Java 7.
+4. Make sure you have installed Java 7 and above.
 
 Happy Coding!
 
