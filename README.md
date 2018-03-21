@@ -1,7 +1,7 @@
 # Java7DeveloperMEP
-This repository contains all the source code for the examples in the blog Java 7 Tutorial.
+This repository contains all the source code for the examples in the blog of Java 7 Tutorial.
 
-You can learn the blog Java 7 Tutorial here: https://www.myanmareffectiveprogrammer.com/java7
+You can learn the blog of Java 7 Tutorial here: https://www.myanmareffectiveprogrammer.com/java7
 
 The source code for all examples can be found in the directory src/com/myanmareffectiveprogrammer
   1. Java 7 Introduction
